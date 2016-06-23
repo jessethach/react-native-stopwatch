@@ -93,14 +93,7 @@ class StopWatch extends Component {
       )
     })
   }
-
-  // border(color) {
-  //   return {
-  //     borderColor: color,
-  //     borderWidth: 4
-  //   }
-  // }
-
+  
   render() {
     return (
       <View style={styles.container}>
